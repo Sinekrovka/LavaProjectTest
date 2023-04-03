@@ -8,6 +8,7 @@ public class TutorialController : MonoBehaviour
     [SerializeField] private Transform _showSources;
     [SerializeField] private Transform _showFabric;
     [SerializeField] private Transform _follow;
+    [SerializeField] private GameObject _ghost;
 
     private Transform _player;
     private bool _tutorialComplete;
@@ -19,12 +20,13 @@ public class TutorialController : MonoBehaviour
         _tutorialComplete = false;
         if (PlayerPrefs.HasKey("Tutorial"))
         {
-            SpawnSystem.Instance.spawnItem += ShowFabric;
+            SpawnSystem.Instance.spawnItemAction += ShowFabric;
             SpawnSystem.Instance.remove += HideAll;
             StartTutorial();
         }
         if (PlayerPrefs.HasKey("Finish"))
         {
+            _ghost.SetActive(false);
             JokeController.Instance.gameObject.SetActive(false);
         }
     }
@@ -40,7 +42,9 @@ public class TutorialController : MonoBehaviour
         if (!_tutorialComplete)
         {
             StopAllCoroutines();
+            _follow.gameObject.SetActive(false);
             _follow.transform.position = _player.position;
+            _follow.gameObject.SetActive(true);
             StartCoroutine(PlayAnimation(_showFabric));
         }
     }
@@ -50,8 +54,8 @@ public class TutorialController : MonoBehaviour
         if (!_tutorialComplete)
         {
             _tutorialComplete = true;
-            StopAllCoroutines();
             _follow.gameObject.SetActive(false);
+            StopAllCoroutines();
         }
     }
 

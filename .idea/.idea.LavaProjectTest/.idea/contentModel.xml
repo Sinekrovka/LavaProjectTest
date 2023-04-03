@@ -449,7 +449,6 @@
           <e p="Upgrade" t="Include" />
         </e>
         <e p="Images" t="Include" />
-        <e p="Inventory.xml" t="Include" />
         <e p="Kawaii Slimes" t="Include">
           <e p="Animation" t="Include">
             <e p="EventAnimation" t="Include" />
@@ -600,6 +599,7 @@
           </e>
         </e>
         <e p="SD Sound Track - A Childs Dream" t="Include" />
+        <e p="Sounds" t="Include" />
         <e p="Stylized Icons" t="Include">
           <e p="Art" t="Include" />
           <e p="DemoScene" t="Include" />

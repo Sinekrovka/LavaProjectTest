@@ -3,12 +3,13 @@ using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class SpawnSystem : MonoBehaviour
 {
     public static SpawnSystem Instance;
 
-    public Action spawnItem;
+    public Action spawnItemAction;
     public Action up;
     public Action remove;
 
@@ -28,6 +29,7 @@ public class SpawnSystem : MonoBehaviour
         {
             collider.enabled = true;
         });
+        spawnItemAction?.Invoke();
     }
 
     public void Up(Transform item)
@@ -37,6 +39,7 @@ public class SpawnSystem : MonoBehaviour
         {
             Destroy(item.gameObject);
         });
+        up?.Invoke();
     }
 
     public void ShakeSpawnSource(Transform spawnShaked)
@@ -56,5 +59,6 @@ public class SpawnSystem : MonoBehaviour
         {
             item.DOScale(0, 0.3f).OnComplete(delegate { Destroy(item.gameObject); });
         });
+        remove?.Invoke();
     }
 }

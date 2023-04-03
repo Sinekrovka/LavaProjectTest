@@ -74,10 +74,9 @@ public class GhostTalking : MonoBehaviour, ITalking
 
     private void FinishQuest(Transform current)
     {
-        if (_setQuest && _questCompletely && current.Equals(transform))
+        if (_setQuest && _questCompletely && current.Equals(transform) && _questFinished)
         {
             JokeController.Instance.StartJoke();
-            /*ХАХАХА*/
         }
     }
 }

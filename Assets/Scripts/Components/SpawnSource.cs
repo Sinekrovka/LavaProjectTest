@@ -61,4 +61,9 @@ public class SpawnSource : MonoBehaviour, IInteractable
         SpawnSystem.Instance.Spawn(spawnPoint.transform, movsPosition, 0.3f);
         SpawnSystem.Instance.ShakeSpawnSource(transform);
     }
+
+    public float GetDataTime()
+    {
+        return _dataFile.SpeedSpawn;
+    }
 }

@@ -32,7 +32,7 @@ public class PlayerDetect : MonoBehaviour
     private IEnumerator SpawnItems(IInteractable interactable)
     {
         interactable.Enter();
-        yield return new WaitForSeconds(0.7f);
+        yield return new WaitForSeconds(interactable.GetDataTime());
         StartCoroutine(SpawnItems(interactable));
     }
 

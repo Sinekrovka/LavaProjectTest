@@ -29,6 +29,5 @@ public class MainSceneController : MonoBehaviour
             PlayerPrefs.DeleteKey("Tutorial");
         }
         PlayerPrefs.Save();
-        Debug.LogError(PlayerPrefs.HasKey("Tutorial"));
     }
 }

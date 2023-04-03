@@ -222,6 +222,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 6719094872670833043, guid: c44a80ca2bb0b5c4fb154e3623930b96, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8125822979606793936, guid: c44a80ca2bb0b5c4fb154e3623930b96, type: 3}
       propertyPath: m_Name
       value: PortalEight Variant
@@ -324,16 +328,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _dataFile: {fileID: 11400000, guid: 467a5a1ccf58c524fb619377c9f30554, type: 2}
---- !u!114 &8865106236591444487
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7701491577944994085}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c722c93723bcad47907e2d806fb61d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _dataFile: {fileID: 11400000, guid: c6295b1471a63de46851c0fb8b11a397, type: 2}
+  _dataFiles:
+  - {fileID: 11400000, guid: 467a5a1ccf58c524fb619377c9f30554, type: 2}
+  - {fileID: 11400000, guid: c6295b1471a63de46851c0fb8b11a397, type: 2}

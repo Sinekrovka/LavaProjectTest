@@ -308,6 +308,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: G1_Yellow
       objectReference: {fileID: 0}
+    - target: {fileID: 3416777852533962973, guid: 7577e3de9babd604d9880ded032d1752, type: 3}
+      propertyPath: _dataFiles.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3416777852533962973, guid: 7577e3de9babd604d9880ded032d1752, type: 3}
+      propertyPath: _dataFiles.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 5771b7c9c5c08324aa71e258aa14a0c6, type: 2}
     - target: {fileID: 3778640553661035222, guid: 7577e3de9babd604d9880ded032d1752, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -324,8 +332,14 @@ PrefabInstance:
       propertyPath: _questSpeakers
       value: 
       objectReference: {fileID: 11400000, guid: 7e6837c5c9cd9914ea0344b044b5fc8b, type: 2}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 466174982370493813, guid: 7577e3de9babd604d9880ded032d1752, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 7577e3de9babd604d9880ded032d1752, type: 3}
+--- !u!1 &91808283 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 466174982370493815, guid: 7577e3de9babd604d9880ded032d1752, type: 3}
+  m_PrefabInstance: {fileID: 91808282}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &91808287 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 466174982370493814, guid: 7577e3de9babd604d9880ded032d1752, type: 3}
@@ -379,6 +393,7 @@ MonoBehaviour:
   _showSources: {fileID: 2059824203}
   _showFabric: {fileID: 1127312749}
   _follow: {fileID: 718238872}
+  _ghost: {fileID: 91808283}
 --- !u!1 &150257266
 GameObject:
   m_ObjectHideFlags: 0

@@ -15,6 +15,7 @@ public class JokeController : MonoBehaviour
 
     public void StartJoke()
     {
+        SoundsController.Instance.StopAllMusic();
         _jokeScreen.SetActive(true);
     }
 }

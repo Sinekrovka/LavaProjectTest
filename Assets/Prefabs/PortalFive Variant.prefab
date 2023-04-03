@@ -327,6 +327,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _dataFile: {fileID: 11400000, guid: 8ba946938750f894baa4529dedfcde1b, type: 2}
+  _dataFiles:
+  - {fileID: 11400000, guid: 8ba946938750f894baa4529dedfcde1b, type: 2}
 --- !u!4 &3364286249001898965 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8108845823087748191, guid: f546e48c3995d33479c34ed605db241c, type: 3}
