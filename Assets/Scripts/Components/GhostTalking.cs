@@ -46,7 +46,7 @@ public class GhostTalking : MonoBehaviour, ITalking
                     indicator.SetActive(false);
                     UIController.Instance.StartTalking(_questSpeakers._questCompleteTalk, transform);
                     _questFinished = true;
-                    PlayerPrefs.GetInt("Finish", 0);
+                    PlayerPrefs.SetInt("Finish", 0);
                     PlayerPrefs.Save();
                 }
                 else

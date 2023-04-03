@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,9 +5,11 @@ public class MainSceneController : MonoBehaviour
 {
     private bool _tutorialActive;
 
-    private void Awake()
+    private void Start()
     {
         _tutorialActive = true;
+        PlayerPrefs.SetInt("Tutorial", 0);
+        PlayerPrefs.Save();
     }
 
     public void StartGame()
@@ -22,12 +22,13 @@ public class MainSceneController : MonoBehaviour
         _tutorialActive = !_tutorialActive;
         if (_tutorialActive)
         {
-            PlayerPrefs.GetInt("Tutorial", 0);
+            PlayerPrefs.SetInt("Tutorial", 0);
         }
         else
         {
             PlayerPrefs.DeleteKey("Tutorial");
         }
         PlayerPrefs.Save();
+        Debug.LogError(PlayerPrefs.HasKey("Tutorial"));
     }
 }

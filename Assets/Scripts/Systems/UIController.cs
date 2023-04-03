@@ -15,7 +15,6 @@ public class UIController : MonoBehaviour
     [SerializeField] private Button _button;
     [SerializeField] private GameObject _timer;
     [SerializeField] private Transform _timerField;
-    [SerializeField] private Canvas canvas;
 
     private List<string> _currentText;
     private int _indexText;
@@ -30,7 +29,6 @@ public class UIController : MonoBehaviour
     {
         Instance = this;
         DontDestroyOnLoad(this);
-        DontDestroyOnLoad(canvas);
         _button.onClick.AddListener(delegate { NextTalking();});
         _talkingButton.gameObject.SetActive(false);
         _dialogField.DOAnchorPosY(-350, 0);

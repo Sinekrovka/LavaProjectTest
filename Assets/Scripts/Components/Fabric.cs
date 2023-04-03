@@ -7,7 +7,6 @@ public class Fabric : MonoBehaviour, IInteractable
     [SerializeField] private DataFabric _dataFile;
     
     private int _minCounts;
-    private int _countCurrent;
     private Transform _spawnPoint;
     private List<Transform> _createObjectsEndPoints;
    

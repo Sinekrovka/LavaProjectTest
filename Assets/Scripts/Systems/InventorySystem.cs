@@ -49,14 +49,14 @@ public class InventorySystem : MonoBehaviour
             {
                 _inventoryContainer[type]--;
                 updateData?.Invoke(type, _inventoryContainer[type]);
-                if (_inventoryContainer[type].Equals(0))
-                {
-                    _inventoryContainer.Remove(type);
-                }
                 GameObject createdItem =
                     Instantiate(item, MovementSystem.Instance.GetPlayer.transform.position, Quaternion.identity);
                 SpawnSystem.Instance.RemoveFromInventory(createdItem.transform, portalPoint);
                 giveToAction?.Invoke(type, portalPoint);
+                if (_inventoryContainer[type].Equals(0))
+                {
+                    _inventoryContainer.Remove(type);
+                }
                 return true;
             }
         }
@@ -96,6 +96,7 @@ public class InventorySystem : MonoBehaviour
                     ToObject(typeof(SpawnedItem.TypeItem), Int32.Parse(elem.Attribute("Type").Value));
                 _inventoryContainer.Add(type, count);
                 addData?.Invoke(type, _data.GetIconByType(type));
+                updateData?.Invoke(type, _inventoryContainer[type]);
             }
         }
     }

@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
@@ -6,6 +7,10 @@ using UnityEngine;
 public class SpawnSystem : MonoBehaviour
 {
     public static SpawnSystem Instance;
+
+    public Action spawnItem;
+    public Action up;
+    public Action remove;
 
     private void Awake()
     {
@@ -44,8 +49,9 @@ public class SpawnSystem : MonoBehaviour
         SpawnedItem spawnedItem = item.GetComponent<SpawnedItem>();
         spawnedItem.StopAllCoroutines();
         spawnedItem.enabled = false;
+        Vector3 scale = item.lossyScale;
         item.DOScale(Vector3.zero, 0);
-        item.DOScale(Vector3.one * 0.3f, 0.5f);
+        item.DOScale(scale, 0.5f);
         item.DOJump(portalPoint.position, 2f, 1, 0.5f).OnComplete(delegate
         {
             item.DOScale(0, 0.3f).OnComplete(delegate { Destroy(item.gameObject); });

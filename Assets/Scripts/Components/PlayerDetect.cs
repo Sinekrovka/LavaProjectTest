@@ -15,8 +15,12 @@ public class PlayerDetect : MonoBehaviour
     {
         if (other.TryGetComponent(out IInteractable interactable) && selected != other)
         {
+            IInteractable[] inters = other.GetComponents<IInteractable>();
             selected = other;
-            StartCoroutine(SpawnItems(interactable));
+            foreach (var i in inters)
+            {
+                StartCoroutine(SpawnItems(i));
+            }
         }
         
         if (other.TryGetComponent(out ITalking talking))
