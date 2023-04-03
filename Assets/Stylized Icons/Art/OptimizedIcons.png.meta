@@ -1,0 +1,2796 @@
+fileFormatVersion: 2
+guid: 0ec38b23e847d9562bdf3c0046516e85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8444081367416688205
+    second: OptimizedIcons_0
+  - first:
+      213: 6647993862525103194
+    second: OptimizedIcons_1
+  - first:
+      213: -3486768721800201865
+    second: OptimizedIcons_2
+  - first:
+      213: -4732773274575416613
+    second: OptimizedIcons_3
+  - first:
+      213: 6498939980371886235
+    second: OptimizedIcons_4
+  - first:
+      213: 3453999007022182862
+    second: OptimizedIcons_5
+  - first:
+      213: 1425882295246757436
+    second: OptimizedIcons_6
+  - first:
+      213: 5869899846092501961
+    second: OptimizedIcons_7
+  - first:
+      213: -6360844243393758925
+    second: OptimizedIcons_8
+  - first:
+      213: -5581981087481545662
+    second: OptimizedIcons_9
+  - first:
+      213: 2819504363321402948
+    second: OptimizedIcons_10
+  - first:
+      213: 8080536580764377557
+    second: OptimizedIcons_11
+  - first:
+      213: 1047302283287837145
+    second: OptimizedIcons_12
+  - first:
+      213: 9123665144456299507
+    second: OptimizedIcons_13
+  - first:
+      213: 7859908891836359393
+    second: OptimizedIcons_14
+  - first:
+      213: 6712312151930446773
+    second: OptimizedIcons_15
+  - first:
+      213: -7530390208996453029
+    second: OptimizedIcons_16
+  - first:
+      213: 7942124161248094352
+    second: OptimizedIcons_17
+  - first:
+      213: 8804130905369634953
+    second: OptimizedIcons_18
+  - first:
+      213: -8002418829058411292
+    second: OptimizedIcons_19
+  - first:
+      213: 6613088264917007845
+    second: OptimizedIcons_20
+  - first:
+      213: -5470095882784737368
+    second: OptimizedIcons_21
+  - first:
+      213: 7269268831257873219
+    second: OptimizedIcons_22
+  - first:
+      213: 2920531052798781533
+    second: OptimizedIcons_23
+  - first:
+      213: 5642649936132230978
+    second: OptimizedIcons_24
+  - first:
+      213: -7037790478470914960
+    second: OptimizedIcons_25
+  - first:
+      213: 5459317630155978906
+    second: OptimizedIcons_26
+  - first:
+      213: -844184188612195368
+    second: OptimizedIcons_27
+  - first:
+      213: 2947842575902320553
+    second: OptimizedIcons_28
+  - first:
+      213: -6019079133910880850
+    second: OptimizedIcons_30
+  - first:
+      213: 3034555089732303078
+    second: OptimizedIcons_31
+  - first:
+      213: 8636629908795888770
+    second: OptimizedIcons_32
+  - first:
+      213: -8657965470561006522
+    second: OptimizedIcons_33
+  - first:
+      213: 3373917423975975029
+    second: OptimizedIcons_34
+  - first:
+      213: -4372329529290100575
+    second: OptimizedIcons_35
+  - first:
+      213: 4415288927860716303
+    second: OptimizedIcons_37
+  - first:
+      213: -7008715386556206697
+    second: OptimizedIcons_38
+  - first:
+      213: 9065305869548142566
+    second: OptimizedIcons_39
+  - first:
+      213: 5513722188438420185
+    second: OptimizedIcons_40
+  - first:
+      213: 7039801611799725827
+    second: OptimizedIcons_41
+  - first:
+      213: 7036566497977236111
+    second: OptimizedIcons_42
+  - first:
+      213: -2652453057737069526
+    second: OptimizedIcons_43
+  - first:
+      213: -5067471266357821284
+    second: OptimizedIcons_44
+  - first:
+      213: 3209899581033918405
+    second: OptimizedIcons_45
+  - first:
+      213: 7321074449718071930
+    second: OptimizedIcons_46
+  - first:
+      213: -1971387752109599350
+    second: OptimizedIcons_47
+  - first:
+      213: -728416103749959133
+    second: OptimizedIcons_48
+  - first:
+      213: -3058706900998593358
+    second: OptimizedIcons_49
+  - first:
+      213: 1392835850132788931
+    second: OptimizedIcons_50
+  - first:
+      213: -2855932301335997498
+    second: OptimizedIcons_51
+  - first:
+      213: -4331272545215008053
+    second: OptimizedIcons_52
+  - first:
+      213: -4524970338963168858
+    second: OptimizedIcons_53
+  - first:
+      213: 785416804008941719
+    second: OptimizedIcons_54
+  - first:
+      213: -6221722484181968222
+    second: OptimizedIcons_55
+  - first:
+      213: -8375507445414767168
+    second: OptimizedIcons_56
+  - first:
+      213: 7613966423917312955
+    second: OptimizedIcons_57
+  - first:
+      213: 5212300779275834856
+    second: OptimizedIcons_58
+  - first:
+      213: -1766792076208978617
+    second: OptimizedIcons_59
+  - first:
+      213: 8758309446737982897
+    second: OptimizedIcons_60
+  - first:
+      213: -2052930391040571196
+    second: OptimizedIcons_61
+  - first:
+      213: 7619889370035370356
+    second: OptimizedIcons_62
+  - first:
+      213: 610494007929160618
+    second: OptimizedIcons_63
+  - first:
+      213: 4404136207488062155
+    second: OptimizedIcons_64
+  - first:
+      213: 681112554133592450
+    second: OptimizedIcons_65
+  - first:
+      213: -5094282080350055109
+    second: OptimizedIcons_66
+  - first:
+      213: 7020318150605597677
+    second: OptimizedIcons_67
+  - first:
+      213: 3335689188002582454
+    second: OptimizedIcons_68
+  - first:
+      213: 4001811338159638666
+    second: OptimizedIcons_69
+  - first:
+      213: -5463795449160845599
+    second: OptimizedIcons_70
+  - first:
+      213: -8085084213991429407
+    second: OptimizedIcons_71
+  - first:
+      213: -124511948176307317
+    second: OptimizedIcons_72
+  - first:
+      213: -2048366208782532940
+    second: OptimizedIcons_73
+  - first:
+      213: -430258227187085887
+    second: OptimizedIcons_74
+  - first:
+      213: 583046947915743417
+    second: OptimizedIcons_75
+  - first:
+      213: 1762175355156499096
+    second: OptimizedIcons_76
+  - first:
+      213: 2758990720659319454
+    second: OptimizedIcons_77
+  - first:
+      213: 3108857153208940284
+    second: OptimizedIcons_78
+  - first:
+      213: 5272482757352106939
+    second: OptimizedIcons_79
+  - first:
+      213: -5425796526394075189
+    second: OptimizedIcons_81
+  - first:
+      213: -7138133848323849839
+    second: OptimizedIcons_82
+  - first:
+      213: -5530615052971158347
+    second: OptimizedIcons_83
+  - first:
+      213: -8572677389507707433
+    second: OptimizedIcons_84
+  - first:
+      213: -7490575981264350709
+    second: OptimizedIcons_85
+  - first:
+      213: -5828481694860747443
+    second: OptimizedIcons_86
+  - first:
+      213: 4706057555417328034
+    second: OptimizedIcons_87
+  - first:
+      213: 5453893360708495357
+    second: OptimizedIcons_88
+  - first:
+      213: 3999428795168953143
+    second: OptimizedIcons_89
+  - first:
+      213: 1039846241339959808
+    second: OptimizedIcons_90
+  - first:
+      213: 8918410620680185989
+    second: OptimizedIcons_91
+  - first:
+      213: -3382129893961027870
+    second: OptimizedIcons_92
+  - first:
+      213: -4993865541630629870
+    second: OptimizedIcons_93
+  - first:
+      213: 7762431176959414966
+    second: OptimizedIcons_94
+  - first:
+      213: 2435821154963349734
+    second: OptimizedIcons_95
+  - first:
+      213: -3178954115972941792
+    second: OptimizedIcons_96
+  - first:
+      213: 7030991283644281344
+    second: OptimizedIcons_97
+  - first:
+      213: 4263543832054854415
+    second: OptimizedIcons_98
+  - first:
+      213: -520806878093800062
+    second: OptimizedIcons_99
+  - first:
+      213: 3014114034560116787
+    second: OptimizedIcons_101
+  - first:
+      213: -6034464190413848219
+    second: OptimizedIcons_102
+  - first:
+      213: 5913955392298506617
+    second: OptimizedIcons_103
+  - first:
+      213: -5712168821090727656
+    second: OptimizedIcons_104
+  - first:
+      213: -964915764111439180
+    second: OptimizedIcons_105
+  - first:
+      213: -664555457705435614
+    second: OptimizedIcons_106
+  - first:
+      213: 2880833391516287092
+    second: OptimizedIcons_107
+  - first:
+      213: -1772325188235383321
+    second: OptimizedIcons_108
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OptimizedIcons_0
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 5773
+        width: 995
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ecd57d3476f2570800000000000000
+      internalID: 8444081367416688205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_1
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 6358
+        width: 334
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c29c4023b624c50800000000000000
+      internalID: 6647993862525103194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_2
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 6079
+        width: 610
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f72b32528c9fc0800000000000000
+      internalID: -3486768721800201865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_3
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 6058
+        width: 597
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2587638cfc15eb0800000000000000
+      internalID: -4732773274575416613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_4
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 5967
+        width: 574
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9086a2ba7fd03a50800000000000000
+      internalID: 6498939980371886235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5178
+        width: 1004
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1fb1cfbc11fef20800000000000000
+      internalID: 3453999007022182862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_6
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 4809
+        width: 1097
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e93b39460c9c310800000000000000
+      internalID: 1425882295246757436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_7
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 4752
+        width: 1096
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b6795fc2167150800000000000000
+      internalID: 5869899846092501961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_8
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 5703
+        width: 408
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393de0acddb9b7a0800000000000000
+      internalID: -6360844243393758925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_9
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 5723
+        width: 406
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb6b986c1d882b0800000000000000
+      internalID: -5581981087481545662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_10
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 5089
+        width: 995
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446af62b744e02720800000000000000
+      internalID: 2819504363321402948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_11
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 5674
+        width: 333
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a20b2535d32070800000000000000
+      internalID: 8080536580764377557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_12
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 5394
+        width: 610
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b3d7b0e3c88e00800000000000000
+      internalID: 1047302283287837145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3997
+        width: 737
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f34ee01c15cd9e70800000000000000
+      internalID: 9123665144456299507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_14
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 4767
+        width: 689
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e227d85e71041d60800000000000000
+      internalID: 7859908891836359393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_15
+      rect:
+        serializedVersion: 2
+        x: 5702
+        y: 5018
+        width: 408
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32a5db65ce62d50800000000000000
+      internalID: 6712312151930446773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_16
+      rect:
+        serializedVersion: 2
+        x: 6282
+        y: 5039
+        width: 406
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55dfaca00eae7790800000000000000
+      internalID: -7530390208996453029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_17
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 4947
+        width: 446
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0986d3178d7183e60800000000000000
+      internalID: 7942124161248094352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_18
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 4032
+        width: 688
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886892896e8e2a70800000000000000
+      internalID: 8804130905369634953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_19
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 4086
+        width: 577
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4731e3972b1f090800000000000000
+      internalID: -8002418829058411292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_20
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 4105
+        width: 995
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edbea24db866cb50800000000000000
+      internalID: 6613088264917007845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_21
+      rect:
+        serializedVersion: 2
+        x: 5702
+        y: 4690
+        width: 333
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f943c6c05614b0800000000000000
+      internalID: -5470095882784737368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_22
+      rect:
+        serializedVersion: 2
+        x: 6155
+        y: 4411
+        width: 610
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc1ffdc71a1e460800000000000000
+      internalID: 7269268831257873219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_23
+      rect:
+        serializedVersion: 2
+        x: 6898
+        y: 4210
+        width: 611
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58a195d48fc78820800000000000000
+      internalID: 2920531052798781533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_24
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 4037
+        width: 1115
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fca0b8838be4e40800000000000000
+      internalID: 5642649936132230978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_25
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 4376
+        width: 380
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c5d1ff8deb45e90800000000000000
+      internalID: -7037790478470914960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_26
+      rect:
+        serializedVersion: 2
+        x: 5707
+        y: 4034
+        width: 408
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98797db57463cb40800000000000000
+      internalID: 5459317630155978906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_27
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 4055
+        width: 406
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc4c004fad844f0800000000000000
+      internalID: -844184188612195368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_28
+      rect:
+        serializedVersion: 2
+        x: 6944
+        y: 3418
+        width: 687
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72e665437d8e820800000000000000
+      internalID: 2947842575902320553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_30
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 3457
+        width: 630
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada64c0b6fe77ca0800000000000000
+      internalID: -6019079133910880850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_31
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 3316
+        width: 714
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8f8deb6c7ec1a20800000000000000
+      internalID: 3034555089732303078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_32
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 3246
+        width: 937
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2841b4aa4297bd770800000000000000
+      internalID: 8636629908795888770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2929
+        width: 952
+        height: 1048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0d91c64ab8d780800000000000000
+      internalID: -8657965470561006522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_34
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 3409
+        width: 890
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c695750092de20800000000000000
+      internalID: 3373917423975975029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_35
+      rect:
+        serializedVersion: 2
+        x: 5412
+        y: 3241
+        width: 564
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a076bd657d5253c0800000000000000
+      internalID: -4372329529290100575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_37
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 2754
+        width: 730
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f037addf2e1464d30800000000000000
+      internalID: 4415288927860716303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_38
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 2471
+        width: 618
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791b08c5d7a0cbe90800000000000000
+      internalID: -7008715386556206697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_39
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 2448
+        width: 617
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef3ea688af6ecd70800000000000000
+      internalID: 9065305869548142566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_40
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 2444
+        width: 617
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dabf001e1da48c40800000000000000
+      internalID: 5513722188438420185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_41
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 2100
+        width: 593
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078b88744662b160800000000000000
+      internalID: 7039801611799725827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_42
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 2930
+        width: 579
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af856d2f7e6a160800000000000000
+      internalID: 7036566497977236111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_43
+      rect:
+        serializedVersion: 2
+        x: 6991
+        y: 2981
+        width: 289
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cee2e4ff7903bd0800000000000000
+      internalID: -2652453057737069526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_44
+      rect:
+        serializedVersion: 2
+        x: 7314
+        y: 3009
+        width: 232
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c904e3b5bb9bca9b0800000000000000
+      internalID: -5067471266357821284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2084
+        width: 808
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa33489aadb8c20800000000000000
+      internalID: 3209899581033918405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_46
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1681
+        width: 745
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7252ad5c6ea99560800000000000000
+      internalID: 7321074449718071930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_47
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1716
+        width: 489
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8593f8c84934a4e0800000000000000
+      internalID: -1971387752109599350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_48
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1784
+        width: 681
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3224f47b96524e5f0800000000000000
+      internalID: -728416103749959133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_49
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1711
+        width: 618
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b461fd774a4d85d0800000000000000
+      internalID: -3058706900998593358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_50
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 1711
+        width: 618
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6189d73d8545310800000000000000
+      internalID: 1392835850132788931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_51
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 1715
+        width: 640
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3dd4c04b0bd58d0800000000000000
+      internalID: -2855932301335997498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_52
+      rect:
+        serializedVersion: 2
+        x: 6198
+        y: 2342
+        width: 681
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2be05719a34e3c0800000000000000
+      internalID: -4331272545215008053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_53
+      rect:
+        serializedVersion: 2
+        x: 6941
+        y: 2266
+        width: 688
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1ebe673731431c0800000000000000
+      internalID: -4524970338963168858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_54
+      rect:
+        serializedVersion: 2
+        x: 6009
+        y: 2092
+        width: 339
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79853930c6c56ea00800000000000000
+      internalID: 785416804008941719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_55
+      rect:
+        serializedVersion: 2
+        x: 7209
+        y: 1814
+        width: 418
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad54f5d5008a9a0800000000000000
+      internalID: -6221722484181968222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1154
+        width: 437
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d96e8a5834cb80800000000000000
+      internalID: -8375507445414767168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1598
+        width: 209
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbb75d3f1e3aa960800000000000000
+      internalID: 7613966423917312955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_58
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1578
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55a3b51ffc55840800000000000000
+      internalID: 5212300779275834856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_59
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1552
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c691b7f71b77e0800000000000000
+      internalID: -1766792076208978617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_60
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 1466
+        width: 260
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f3cdc904cb8970800000000000000
+      internalID: 8758309446737982897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_61
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 1459
+        width: 261
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c84c6dafa68283e0800000000000000
+      internalID: -2052930391040571196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_62
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 960
+        width: 618
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479bbb892094fb960800000000000000
+      internalID: 7619889370035370356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_63
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 1041
+        width: 618
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa34f10d019e87800800000000000000
+      internalID: 610494007929160618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_64
+      rect:
+        serializedVersion: 2
+        x: 5741
+        y: 1083
+        width: 340
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc213cdeb82ae1d30800000000000000
+      internalID: 4404136207488062155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_65
+      rect:
+        serializedVersion: 2
+        x: 6138
+        y: 1083
+        width: 340
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891131624cc37900800000000000000
+      internalID: 681112554133592450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_66
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 1083
+        width: 340
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35d81740797d49b0800000000000000
+      internalID: -5094282080350055109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_67
+      rect:
+        serializedVersion: 2
+        x: 7031
+        y: 1189
+        width: 572
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe219a92e2d6160800000000000000
+      internalID: 7020318150605597677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_68
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1057
+        width: 489
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf410ca4afba4e20800000000000000
+      internalID: 3335689188002582454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_69
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1526
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c225a53a498730800000000000000
+      internalID: 4001811338159638666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_70
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1496
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63f57ccf2bc24b0800000000000000
+      internalID: -5463795449160845599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_71
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1267
+        width: 306
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2ce57eb20ccf80800000000000000
+      internalID: -8085084213991429407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_72
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 964
+        width: 624
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc8a6fa05a54ef0800000000000000
+      internalID: -124511948176307317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_73
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 885
+        width: 285
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be7a9b29cdb293e0800000000000000
+      internalID: -2048366208782532940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_74
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 897
+        width: 514
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd03d60c6a670af0800000000000000
+      internalID: -430258227187085887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_75
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 902
+        width: 516
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c4e92c16671800800000000000000
+      internalID: 583046947915743417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_76
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1074
+        width: 241
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a0d0c2621847810800000000000000
+      internalID: 1762175355156499096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_77
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 922
+        width: 175
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6f735177e94620800000000000000
+      internalID: 2758990720659319454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_78
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 920
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf673720c11e42b20800000000000000
+      internalID: 3108857153208940284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_79
+      rect:
+        serializedVersion: 2
+        x: 7182
+        y: 638
+        width: 450
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb285c022f9b2940800000000000000
+      internalID: 5272482757352106939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_81
+      rect:
+        serializedVersion: 2
+        x: 5033
+        y: 681
+        width: 385
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79bbc6ec2b3b4b0800000000000000
+      internalID: -5425796526394075189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_82
+      rect:
+        serializedVersion: 2
+        x: 5588
+        y: 691
+        width: 302
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191077b951140fc90800000000000000
+      internalID: -7138133848323849839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_83
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 903
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4d93a69ee4f33b0800000000000000
+      internalID: -5530615052971158347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_84
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 73
+        width: 741
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddbe50955bb70980800000000000000
+      internalID: -8572677389507707433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_85
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 71
+        width: 767
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025aa1f4d02c0890800000000000000
+      internalID: -7490575981264350709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_86
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 87
+        width: 772
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d55f577c21d1fa0800000000000000
+      internalID: -5828481694860747443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_87
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 78
+        width: 793
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a96133b9664f4140800000000000000
+      internalID: 4706057555417328034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_88
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 184
+        width: 416
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df724e79d1f10bb40800000000000000
+      internalID: 5453893360708495357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_89
+      rect:
+        serializedVersion: 2
+        x: 4085
+        y: 91
+        width: 793
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7339380ac43d08730800000000000000
+      internalID: 3999428795168953143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_90
+      rect:
+        serializedVersion: 2
+        x: 5935
+        y: 665
+        width: 152
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ae71ca5a64e6e00800000000000000
+      internalID: 1039846241339959808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_91
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 64
+        width: 581
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a6be253f84cb70800000000000000
+      internalID: 8918410620680185989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_92
+      rect:
+        serializedVersion: 2
+        x: 5027
+        y: 499
+        width: 170
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee293ed7c24011d0800000000000000
+      internalID: -3382129893961027870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_93
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 567
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218ea0f9fb932bab0800000000000000
+      internalID: -4993865541630629870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_94
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 519
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b255104702b9bb60800000000000000
+      internalID: 7762431176959414966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_95
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 477
+        width: 121
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0e8f55f66cdc120800000000000000
+      internalID: 2435821154963349734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_96
+      rect:
+        serializedVersion: 2
+        x: 7182
+        y: 63
+        width: 450
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ba28031612e3d0800000000000000
+      internalID: -3178954115972941792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_97
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 514
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023c781259139160800000000000000
+      internalID: 7030991283644281344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_98
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 407
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ffe9a6862b2b30800000000000000
+      internalID: 4263543832054854415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_99
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 258
+        width: 221
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d83aa57e8b5c8f0800000000000000
+      internalID: -520806878093800062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_101
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 71
+        width: 425
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a976beb844d920800000000000000
+      internalID: 3014114034560116787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_102
+      rect:
+        serializedVersion: 2
+        x: 5989
+        y: 371
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56141907ac6414ca0800000000000000
+      internalID: -6034464190413848219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_103
+      rect:
+        serializedVersion: 2
+        x: 5461
+        y: 176
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97955778817921250800000000000000
+      internalID: 5913955392298506617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_104
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 77
+        width: 219
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81943d9b8bc4ab0b0800000000000000
+      internalID: -5712168821090727656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_105
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 104
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba86f1993eeb92f0800000000000000
+      internalID: -964915764111439180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_106
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 103
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9be9055607c6f0800000000000000
+      internalID: -664555457705435614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_107
+      rect:
+        serializedVersion: 2
+        x: 5492
+        y: 85
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470896ec4b6caf720800000000000000
+      internalID: 2880833391516287092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptimizedIcons_108
+      rect:
+        serializedVersion: 2
+        x: 5027
+        y: 75
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eda0c8a1af6767e0800000000000000
+      internalID: -1772325188235383321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OptimizedIcons_45: 3209899581033918405
+      OptimizedIcons_58: 5212300779275834856
+      OptimizedIcons_16: -7530390208996453029
+      OptimizedIcons_99: -520806878093800062
+      OptimizedIcons_65: 681112554133592450
+      OptimizedIcons_94: 7762431176959414966
+      OptimizedIcons_102: -6034464190413848219
+      OptimizedIcons_30: -6019079133910880850
+      OptimizedIcons_38: -7008715386556206697
+      OptimizedIcons_0: 8444081367416688205
+      OptimizedIcons_62: 7619889370035370356
+      OptimizedIcons_63: 610494007929160618
+      OptimizedIcons_42: 7036566497977236111
+      OptimizedIcons_108: -1772325188235383321
+      OptimizedIcons_68: 3335689188002582454
+      OptimizedIcons_74: -430258227187085887
+      OptimizedIcons_92: -3382129893961027870
+      OptimizedIcons_106: -664555457705435614
+      OptimizedIcons_76: 1762175355156499096
+      OptimizedIcons_49: -3058706900998593358
+      OptimizedIcons_82: -7138133848323849839
+      OptimizedIcons_91: 8918410620680185989
+      OptimizedIcons_8: -6360844243393758925
+      OptimizedIcons_19: -8002418829058411292
+      OptimizedIcons_77: 2758990720659319454
+      OptimizedIcons_85: -7490575981264350709
+      OptimizedIcons_34: 3373917423975975029
+      OptimizedIcons_75: 583046947915743417
+      OptimizedIcons_53: -4524970338963168858
+      OptimizedIcons_3: -4732773274575416613
+      OptimizedIcons_52: -4331272545215008053
+      OptimizedIcons_51: -2855932301335997498
+      OptimizedIcons_27: -844184188612195368
+      OptimizedIcons_81: -5425796526394075189
+      OptimizedIcons_97: 7030991283644281344
+      OptimizedIcons_104: -5712168821090727656
+      OptimizedIcons_9: -5581981087481545662
+      OptimizedIcons_93: -4993865541630629870
+      OptimizedIcons_5: 3453999007022182862
+      OptimizedIcons_31: 3034555089732303078
+      OptimizedIcons_13: 9123665144456299507
+      OptimizedIcons_24: 5642649936132230978
+      OptimizedIcons_33: -8657965470561006522
+      OptimizedIcons_56: -8375507445414767168
+      OptimizedIcons_1: 6647993862525103194
+      OptimizedIcons_48: -728416103749959133
+      OptimizedIcons_40: 5513722188438420185
+      OptimizedIcons_64: 4404136207488062155
+      OptimizedIcons_96: -3178954115972941792
+      OptimizedIcons_32: 8636629908795888770
+      OptimizedIcons_39: 9065305869548142566
+      OptimizedIcons_67: 7020318150605597677
+      OptimizedIcons_10: 2819504363321402948
+      OptimizedIcons_26: 5459317630155978906
+      OptimizedIcons_14: 7859908891836359393
+      OptimizedIcons_7: 5869899846092501961
+      OptimizedIcons_25: -7037790478470914960
+      OptimizedIcons_22: 7269268831257873219
+      OptimizedIcons_69: 4001811338159638666
+      OptimizedIcons_11: 8080536580764377557
+      OptimizedIcons_4: 6498939980371886235
+      OptimizedIcons_35: -4372329529290100575
+      OptimizedIcons_60: 8758309446737982897
+      OptimizedIcons_47: -1971387752109599350
+      OptimizedIcons_21: -5470095882784737368
+      OptimizedIcons_95: 2435821154963349734
+      OptimizedIcons_79: 5272482757352106939
+      OptimizedIcons_103: 5913955392298506617
+      OptimizedIcons_50: 1392835850132788931
+      OptimizedIcons_71: -8085084213991429407
+      OptimizedIcons_46: 7321074449718071930
+      OptimizedIcons_86: -5828481694860747443
+      OptimizedIcons_41: 7039801611799725827
+      OptimizedIcons_101: 3014114034560116787
+      OptimizedIcons_28: 2947842575902320553
+      OptimizedIcons_17: 7942124161248094352
+      OptimizedIcons_73: -2048366208782532940
+      OptimizedIcons_89: 3999428795168953143
+      OptimizedIcons_78: 3108857153208940284
+      OptimizedIcons_87: 4706057555417328034
+      OptimizedIcons_23: 2920531052798781533
+      OptimizedIcons_83: -5530615052971158347
+      OptimizedIcons_18: 8804130905369634953
+      OptimizedIcons_105: -964915764111439180
+      OptimizedIcons_90: 1039846241339959808
+      OptimizedIcons_59: -1766792076208978617
+      OptimizedIcons_15: 6712312151930446773
+      OptimizedIcons_84: -8572677389507707433
+      OptimizedIcons_57: 7613966423917312955
+      OptimizedIcons_20: 6613088264917007845
+      OptimizedIcons_2: -3486768721800201865
+      OptimizedIcons_61: -2052930391040571196
+      OptimizedIcons_43: -2652453057737069526
+      OptimizedIcons_98: 4263543832054854415
+      OptimizedIcons_44: -5067471266357821284
+      OptimizedIcons_70: -5463795449160845599
+      OptimizedIcons_72: -124511948176307317
+      OptimizedIcons_6: 1425882295246757436
+      OptimizedIcons_12: 1047302283287837145
+      OptimizedIcons_37: 4415288927860716303
+      OptimizedIcons_66: -5094282080350055109
+      OptimizedIcons_55: -6221722484181968222
+      OptimizedIcons_88: 5453893360708495357
+      OptimizedIcons_107: 2880833391516287092
+      OptimizedIcons_54: 785416804008941719
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
