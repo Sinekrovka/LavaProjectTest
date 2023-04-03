@@ -90,6 +90,8 @@ public class UIController : MonoBehaviour
         _indexText++;
         if (_indexText.Equals(_currentText.Count))
         {
+            finishPartOfTalking?.Invoke(_talker);
+            _talker = null;
             _dialogField.DOAnchorPosY(-350, 1f).SetEase(Ease.OutQuad);
         }
         else
@@ -107,8 +109,6 @@ public class UIController : MonoBehaviour
             _dialogText.text += character;
             yield return new WaitForSeconds(0.05f);
         }
-        finishPartOfTalking?.Invoke(_talker);
-        _talker = null;
     }
 
     public void HideTalkingButton()

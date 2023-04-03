@@ -15,7 +15,7 @@ MonoBehaviour:
   _dataInventories:
   - type: 0
     prefab: {fileID: 123755273209156409, guid: 8819d9be735da06459de7f6142bbf45b, type: 3}
-    icon: {fileID: -5518778271455951048, guid: bbad8b6050412d7c1b638842b1d4512f, type: 3}
+    icon: {fileID: 3335689188002582454, guid: 0ec38b23e847d9562bdf3c0046516e85, type: 3}
   - type: 1
     prefab: {fileID: 8920853676535309966, guid: d84e775e514aa6347895046b476f8a0f, type: 3}
     icon: {fileID: 21300000, guid: 81f78332483665e46bdcd7fc400e750d, type: 3}
