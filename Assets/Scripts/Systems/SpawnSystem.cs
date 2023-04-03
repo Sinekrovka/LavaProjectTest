@@ -10,6 +10,7 @@ public class SpawnSystem : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+        DontDestroyOnLoad(this);
     }
 
     public void Spawn(Transform spawnItem, Vector3 newPos, float scaleFactor)

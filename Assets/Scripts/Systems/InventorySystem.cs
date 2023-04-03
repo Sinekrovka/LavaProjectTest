@@ -17,6 +17,7 @@ public class InventorySystem : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+        DontDestroyOnLoad(this);
         _inventoryContainer = new Dictionary<SpawnedItem.TypeItem, int>();
     }
 

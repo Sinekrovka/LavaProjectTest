@@ -590,8 +590,11 @@
           </e>
           <e p="Systems" t="Include">
             <e p="InventorySystem.cs" t="Include" />
+            <e p="JokeController.cs" t="Include" />
+            <e p="MainSceneController.cs" t="Include" />
             <e p="MovementSystem.cs" t="Include" />
             <e p="SpawnSystem.cs" t="Include" />
+            <e p="TutorialController.cs" t="Include" />
             <e p="UIController.cs" t="Include" />
           </e>
         </e>

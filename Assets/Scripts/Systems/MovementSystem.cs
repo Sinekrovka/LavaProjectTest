@@ -23,6 +23,7 @@ public class MovementSystem : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+        DontDestroyOnLoad(transform.parent);
         DontDestroyOnLoad(this);
         
         _inputActions = new DefaultInputActions();
@@ -31,15 +32,17 @@ public class MovementSystem : MonoBehaviour
         _inputActions.Player.Move.started += MovementPlayer;
         _inputActions.Player.Move.canceled += MovementPlayer;
         _inputActions.Player.Fire.started += ShowJoystick;
-        
+
+        _joystickBackground = GameObject.Find("Canvas/Joystick").GetComponent<Image>();
+        _joystickHandle = GameObject.Find("Canvas/Joystick/JoystickPin").GetComponent<Image>();
+    }
+
+    public void ConnectToPlayer()
+    {
         _playerAgent = GameObject.FindWithTag("Player").GetComponent<NavMeshAgent>();
         _cameraMovement = _playerAgent.transform.Find("FollowtoCamera");
         _startCameraParams = _cameraMovement.localPosition;
         _cameraMovement.SetParent(null);
-
-        _joystickBackground = GameObject.Find("Canvas/Joystick").GetComponent<Image>();
-        _joystickHandle = GameObject.Find("Canvas/Joystick/JoystickPin").GetComponent<Image>();
-
     }
 
     private void MovementCamera()

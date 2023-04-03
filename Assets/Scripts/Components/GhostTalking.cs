@@ -6,10 +6,10 @@ public class GhostTalking : MonoBehaviour, ITalking
 {
     [SerializeField] private QuestSpeakersData _questSpeakers;
     [SerializeField] private GameObject indicator;
+    [SerializeField] private SpawnedItem.TypeItem _questType;
     private bool _setQuest;
     private Transform _point;
     private bool _questCompletely;
-    private Fabric _fabrickYourself;
     private bool _questFinished;
     private void Awake()
     {
@@ -17,7 +17,6 @@ public class GhostTalking : MonoBehaviour, ITalking
         _questCompletely = false;
         _questFinished = false;
         _point = transform.Find("SpawnPoint");
-        _fabrickYourself = GetComponent<Fabric>();
     }
 
     private void Start()
@@ -66,7 +65,7 @@ public class GhostTalking : MonoBehaviour, ITalking
 
     private void CheckQuest(SpawnedItem.TypeItem type, Transform checkPoint)
     {
-        if (type.Equals(_fabrickYourself.GetFabricType) && checkPoint.Equals(_point))
+        if (type.Equals(_questType) && checkPoint.Equals(_point))
         {
             indicator.SetActive(true);
             _questCompletely = true;
@@ -77,7 +76,7 @@ public class GhostTalking : MonoBehaviour, ITalking
     {
         if (_setQuest && _questCompletely && current.Equals(transform))
         {
-            
+            JokeController.Instance.StartJoke();
             /*ХАХАХА*/
         }
     }

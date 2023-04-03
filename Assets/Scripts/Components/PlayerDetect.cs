@@ -5,6 +5,12 @@ using UnityEngine;
 public class PlayerDetect : MonoBehaviour
 {
     private Collider selected;
+
+    private void Awake()
+    {
+        MovementSystem.Instance.ConnectToPlayer();
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.TryGetComponent(out IInteractable interactable) && selected != other)
