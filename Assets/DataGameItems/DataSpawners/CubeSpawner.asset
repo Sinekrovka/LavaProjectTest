@@ -15,3 +15,4 @@ MonoBehaviour:
   _spawnItems: {fileID: 8920853676535309966, guid: d84e775e514aa6347895046b476f8a0f, type: 3}
   _timeRest: 30
   _countedObject: 5
+  _speedSpawn: 0.7
